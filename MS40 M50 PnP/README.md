@@ -4,3 +4,5 @@ SJ5 and SJ6 are used to power optional hall sensors with 5v or 12v. Do not use t
 In rev 2.2 the power will be sent to pin1 in the sensor connector. Pin 2 will be signal and pin 3 is ground.
 If sensors require pull-up resistor, the R39 is used for that for crank and R40 is for cam.
 In addition to that R59 and R60 need to be added to get the signal to processor when VR-conditioner is not used.
+![backside ms40 pnp board](https://user-images.githubusercontent.com/77926915/109421725-cc27f680-79d8-11eb-8ef7-264b095021e6.png)
+
