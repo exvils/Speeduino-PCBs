@@ -1,0 +1,15 @@
+Connector #1
+1. +5V
+2. Spare 33 (relay (gnd) output)
+3. Spare 31 (relay (gnd) output)
+4. GND
+5. Analog in A6
+6. Analog in A7
+
+Connector #2
+1. Spare 35
+2. Fan
+3. Boost
+4. Flex sensor
+5. O2 - lambda
+6. Launch
